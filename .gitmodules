@@ -1,0 +1,21 @@
+[submodule "ctrlp"]
+	path = ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "rainbow_parentheses"]
+	path = rainbow_parentheses
+	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "vim-clojure-static"]
+	path = vim-clojure-static
+	url = https://github.com/guns/vim-clojure-static.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "vim-slime"]
+	path = vim-slime
+	url = https://github.com/jpalardy/vim-slime.git
