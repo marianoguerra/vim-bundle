@@ -19,3 +19,9 @@
 [submodule "vim-slime"]
 	path = vim-slime
 	url = https://github.com/jpalardy/vim-slime.git
+[submodule "vim-erlang-runtime"]
+	path = vim-erlang-runtime
+	url = https://github.com/hcs42/vim-erlang-runtime
+[submodule "editorconfig-vim"]
+	path = editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
