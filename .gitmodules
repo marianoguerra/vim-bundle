@@ -25,3 +25,6 @@
 [submodule "editorconfig-vim"]
 	path = editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less
