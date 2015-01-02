@@ -28,3 +28,6 @@
 [submodule "vim-less"]
 	path = vim-less
 	url = https://github.com/groenewege/vim-less
+[submodule "efene"]
+	path = efene
+	url = https://github.com/efene/efene-vim.git
